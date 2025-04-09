@@ -1,0 +1,1200 @@
+LEVEL: easy
+QUESTION: What is the capital of Spain?
+A: Brussels
+B: Rome
+C: Madrid
+D: Belgrade
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What color is the grass?
+A: white
+B: yellow
+C: purple
+D: green
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What color is the snow?
+A: yellow
+B: orange
+C: red
+D: white
+ANSWER: D
+
+LEVEL: easy
+QUESTION: How many legs does a elephant have?
+A: 6
+B: 2
+C: 8
+D: 4
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What is the capital of Romania?
+A: Rome
+B: Prague
+C: Bucharest
+D: Oslo
+ANSWER: C
+
+LEVEL: easy
+QUESTION: How many legs does a kangaroo have?
+A: 2
+B: 8
+C: 4
+D: 6
+ANSWER: A
+
+LEVEL: easy
+QUESTION: What is the capital of Belgium?
+A: Sofia
+B: Brussels
+C: Ljubljana
+D: Lisbon
+ANSWER: B
+
+LEVEL: easy
+QUESTION: What is the capital of Norway?
+A: Helsinki
+B: Warsaw
+C: Vienna
+D: Oslo
+ANSWER: D
+
+LEVEL: easy
+QUESTION: How many legs does a cat have?
+A: 6
+B: 0
+C: 4
+D: 8
+ANSWER: C
+
+LEVEL: easy
+QUESTION: How many legs does a bee have?
+A: 6
+B: 4
+C: 2
+D: 8
+ANSWER: A
+
+LEVEL: easy
+QUESTION: What is the capital of Croatia?
+A: Belgrade
+B: Bratislava
+C: Zagreb
+D: Stockholm
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What is the capital of Switzerland?
+A: Berlin
+B: Tallinn
+C: Bern
+D: Brussels
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What is the capital of Germany?
+A: Sofia
+B: Belgrade
+C: Zagreb
+D: Berlin
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What is the capital of Bulgaria?
+A: Bern
+B: Berlin
+C: Warsaw
+D: Sofia
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What is the capital of France?
+A: Tallinn
+B: Paris
+C: Vienna
+D: Warsaw
+ANSWER: B
+
+LEVEL: easy
+QUESTION: What is the capital of Slovakia?
+A: Budapest
+B: Stockholm
+C: Bratislava
+D: Tallinn
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What is the capital of Ireland?
+A: Dublin
+B: Ljubljana
+C: Warsaw
+D: Vienna
+ANSWER: A
+
+LEVEL: easy
+QUESTION: What is the capital of Serbia?
+A: Warsaw
+B: Zagreb
+C: Belgrade
+D: Prague
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What is the capital of Slovenia?
+A: Ljubljana
+B: Prague
+C: Amsterdam
+D: Rome
+ANSWER: A
+
+LEVEL: easy
+QUESTION: How many legs does a octopus have?
+A: 2
+B: 4
+C: 8
+D: 0
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What is the capital of Estonia?
+A: Berlin
+B: Tallinn
+C: Sofia
+D: Copenhagen
+ANSWER: B
+
+LEVEL: easy
+QUESTION: What is the capital of Finland?
+A: Bratislava
+B: Madrid
+C: Warsaw
+D: Helsinki
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What is the capital of Austria?
+A: Copenhagen
+B: Helsinki
+C: Rome
+D: Vienna
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What is the capital of Denmark?
+A: Copenhagen
+B: Lisbon
+C: Riga
+D: Ljubljana
+ANSWER: A
+
+LEVEL: easy
+QUESTION: How many legs does a dog have?
+A: 2
+B: 6
+C: 0
+D: 4
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What is the capital of Greece?
+A: Helsinki
+B: Sofia
+C: Athens
+D: Warsaw
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What is the capital of Sweden?
+A: Lisbon
+B: Stockholm
+C: Riga
+D: Helsinki
+ANSWER: B
+
+LEVEL: easy
+QUESTION: What is the capital of Latvia?
+A: Copenhagen
+B: Stockholm
+C: Riga
+D: Bern
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What color is the eggplant?
+A: purple
+B: white
+C: black
+D: blue
+ANSWER: A
+
+LEVEL: easy
+QUESTION: What is the capital of Poland?
+A: Vienna
+B: Bratislava
+C: Warsaw
+D: Prague
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What is the capital of Czech Republic?
+A: Brussels
+B: Prague
+C: Stockholm
+D: Copenhagen
+ANSWER: B
+
+LEVEL: easy
+QUESTION: How many legs does a crab have?
+A: 4
+B: 8
+C: 10
+D: 6
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What color is the apple?
+A: purple
+B: white
+C: white
+D: red
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What color is the sky?
+A: red
+B: white
+C: yellow
+D: blue
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What color is the coal?
+A: purple
+B: orange
+C: blue
+D: black
+ANSWER: D
+
+LEVEL: easy
+QUESTION: How many legs does a bird have?
+A: 4
+B: 2
+C: 6
+D: 8
+ANSWER: B
+
+LEVEL: easy
+QUESTION: What is the capital of Italy?
+A: Stockholm
+B: Rome
+C: Warsaw
+D: Belgrade
+ANSWER: B
+
+LEVEL: easy
+QUESTION: How many legs does a snake have?
+A: 2
+B: 0
+C: 4
+D: 6
+ANSWER: B
+
+LEVEL: easy
+QUESTION: How many legs does a ant have?
+A: 4
+B: 2
+C: 6
+D: 2
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What color is the lemon?
+A: red
+B: blue
+C: yellow
+D: purple
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What color is the blood?
+A: orange
+B: black
+C: red
+D: blue
+ANSWER: C
+
+LEVEL: easy
+QUESTION: How many legs does a human have?
+A: 6
+B: 2
+C: 4
+D: 10
+ANSWER: B
+
+LEVEL: easy
+QUESTION: What is the capital of Hungary?
+A: Berlin
+B: Belgrade
+C: Bucharest
+D: Budapest
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What is the capital of Portugal?
+A: Dublin
+B: Tallinn
+C: Belgrade
+D: Lisbon
+ANSWER: D
+
+LEVEL: easy
+QUESTION: What is the capital of Netherlands?
+A: Dublin
+B: Amsterdam
+C: Tallinn
+D: Stockholm
+ANSWER: B
+
+LEVEL: easy
+QUESTION: What color is the carrot?
+A: yellow
+B: orange
+C: white
+D: black
+ANSWER: B
+
+LEVEL: easy
+QUESTION: What color is the cloud?
+A: black
+B: red
+C: orange
+D: white
+ANSWER: D
+
+LEVEL: easy
+QUESTION: How many legs does a spider have?
+A: 6
+B: 8
+C: 2
+D: 4
+ANSWER: B
+
+LEVEL: easy
+QUESTION: What color is the cherry?
+A: black
+B: white
+C: red
+D: white
+ANSWER: C
+
+LEVEL: easy
+QUESTION: What color is the sun?
+A: green
+B: red
+C: black
+D: yellow
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the square root of 361?
+A: 0
+B: 19
+C: 4
+D: 8
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the square root of 169?
+A: 8
+B: 19
+C: 5
+D: 13
+ANSWER: D
+
+LEVEL: medium
+QUESTION: Who painted the American Gothic?
+A: Salvador Dalí
+B: Grant Wood
+C: Vincent van Gogh
+D: Leonardo da Vinci
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the capital of Russia?
+A: Tokyo
+B: Bogota
+C: Bangkok
+D: Moscow
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the square root of 9?
+A: 2
+B: 3
+C: 1
+D: 13
+ANSWER: B
+
+LEVEL: medium
+QUESTION: Who painted the The Night Watch?
+A: Pablo Picasso
+B: Rembrandt
+C: Leonardo da Vinci
+D: Vincent van Gogh
+ANSWER: B
+
+LEVEL: medium
+QUESTION: Who painted the Starry Night?
+A: Vincent van Gogh
+B: Pablo Picasso
+C: Johannes Vermeer
+D: Sandro Botticelli
+ANSWER: A
+
+LEVEL: medium
+QUESTION: What is the square root of 324?
+A: 10
+B: 20
+C: 4
+D: 18
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the capital of Australia?
+A: Canberra
+B: Beijing
+C: Brasilia
+D: Santiago
+ANSWER: A
+
+LEVEL: medium
+QUESTION: Who painted the Mona Lisa?
+A: Edvard Munch
+B: Leonardo da Vinci
+C: Gustav Klimt
+D: Vincent van Gogh
+ANSWER: B
+
+LEVEL: medium
+QUESTION: Who painted the Water Lilies?
+A: Leonardo da Vinci
+B: Claude Monet
+C: Edvard Munch
+D: Salvador Dalí
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the capital of India?
+A: Islamabad
+B: Santiago
+C: Pretoria
+D: New Delhi
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the capital of Iceland?
+A: Brasilia
+B: Tokyo
+C: Reykjavik
+D: Santiago
+ANSWER: C
+
+LEVEL: medium
+QUESTION: What is the capital of Chile?
+A: Santiago
+B: Tokyo
+C: New Delhi
+D: Lima
+ANSWER: A
+
+LEVEL: medium
+QUESTION: Who painted the Impression, Sunrise?
+A: Michelangelo
+B: Claude Monet
+C: Pablo Picasso
+D: Rembrandt
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the capital of Pakistan?
+A: Islamabad
+B: Santiago
+C: Moscow
+D: Bogota
+ANSWER: A
+
+LEVEL: medium
+QUESTION: Who painted the The Creation of Adam?
+A: Edvard Munch
+B: Michelangelo
+C: Salvador Dalí
+D: Sandro Botticelli
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the capital of Japan?
+A: Canberra
+B: Tokyo
+C: Lima
+D: Reykjavik
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the capital of Thailand?
+A: New Delhi
+B: Bogota
+C: Ottawa
+D: Bangkok
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the square root of 4?
+A: 16
+B: 2
+C: 20
+D: 8
+ANSWER: B
+
+LEVEL: medium
+QUESTION: Who painted the Guernica?
+A: Claude Monet
+B: Pablo Picasso
+C: Claude Monet
+D: Vincent van Gogh
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the square root of 144?
+A: 19
+B: 3
+C: 12
+D: 7
+ANSWER: C
+
+LEVEL: medium
+QUESTION: What is the capital of Mexico?
+A: Brasilia
+B: Mexico City
+C: Lima
+D: Beijing
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the capital of South Africa?
+A: Bogota
+B: Mexico City
+C: Ottawa
+D: Pretoria
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the square root of 289?
+A: 14
+B: 10
+C: 17
+D: 13
+ANSWER: C
+
+LEVEL: medium
+QUESTION: What is the square root of 0?
+A: 0
+B: 7
+C: 4
+D: 3
+ANSWER: A
+
+LEVEL: medium
+QUESTION: Who painted the The Scream?
+A: Edvard Munch
+B: Vincent van Gogh
+C: Grant Wood
+D: Rembrandt
+ANSWER: A
+
+LEVEL: medium
+QUESTION: Who painted the The Last Supper?
+A: Edvard Munch
+B: Pablo Picasso
+C: Leonardo da Vinci
+D: Vincent van Gogh
+ANSWER: C
+
+LEVEL: medium
+QUESTION: Who painted the The Birth of Venus?
+A: Michelangelo
+B: Edvard Munch
+C: Sandro Botticelli
+D: Rembrandt
+ANSWER: C
+
+LEVEL: medium
+QUESTION: Who painted the The Persistence of Memory?
+A: Salvador Dalí
+B: Michelangelo
+C: Sandro Botticelli
+D: Rembrandt
+ANSWER: A
+
+LEVEL: medium
+QUESTION: What is the capital of Argentina?
+A: Ottawa
+B: Buenos Aires
+C: Islamabad
+D: New Delhi
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the square root of 196?
+A: 4
+B: 14
+C: 10
+D: 6
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the square root of 256?
+A: 17
+B: 8
+C: 16
+D: 11
+ANSWER: C
+
+LEVEL: medium
+QUESTION: What is the capital of Canada?
+A: Bangkok
+B: Santiago
+C: Ottawa
+D: Bogota
+ANSWER: C
+
+LEVEL: medium
+QUESTION: What is the square root of 1?
+A: 5
+B: 20
+C: 16
+D: 1
+ANSWER: D
+
+LEVEL: medium
+QUESTION: Who painted the Girl with a Pearl Earring?
+A: Vincent van Gogh
+B: Salvador Dalí
+C: Sandro Botticelli
+D: Johannes Vermeer
+ANSWER: D
+
+LEVEL: medium
+QUESTION: Who painted the A Sunday Afternoon on the Island of La Grande Jatte?
+A: Vincent van Gogh
+B: Leonardo da Vinci
+C: Georges Seurat
+D: Grant Wood
+ANSWER: C
+
+LEVEL: medium
+QUESTION: What is the capital of Venezuela?
+A: New Delhi
+B: Caracas
+C: Pretoria
+D: Santiago
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the square root of 49?
+A: 4
+B: 15
+C: 19
+D: 7
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the capital of China?
+A: Canberra
+B: Brasilia
+C: Beijing
+D: Mexico City
+ANSWER: C
+
+LEVEL: medium
+QUESTION: What is the square root of 64?
+A: 3
+B: 20
+C: 8
+D: 1
+ANSWER: C
+
+LEVEL: medium
+QUESTION: What is the square root of 81?
+A: 18
+B: 14
+C: 8
+D: 9
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the capital of Colombia?
+A: New Delhi
+B: Brasilia
+C: Reykjavik
+D: Bogota
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the square root of 100?
+A: 4
+B: 10
+C: 0
+D: 18
+ANSWER: B
+
+LEVEL: medium
+QUESTION: What is the square root of 400?
+A: 12
+B: 19
+C: 17
+D: 20
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the square root of 25?
+A: 15
+B: 12
+C: 11
+D: 5
+ANSWER: D
+
+LEVEL: medium
+QUESTION: Who painted the Sunflowers?
+A: Salvador Dalí
+B: Leonardo da Vinci
+C: Vincent van Gogh
+D: Gustav Klimt
+ANSWER: C
+
+LEVEL: medium
+QUESTION: What is the square root of 16?
+A: 12
+B: 19
+C: 3
+D: 4
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the square root of 225?
+A: 14
+B: 13
+C: 3
+D: 15
+ANSWER: D
+
+LEVEL: medium
+QUESTION: What is the capital of Brazil?
+A: Bangkok
+B: Caracas
+C: Pretoria
+D: Brasilia
+ANSWER: D
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Magnesium?
+A: P
+B: Mg
+C: He
+D: Na
+ANSWER: B
+
+LEVEL: hard
+QUESTION: Who developed the theory of radio waves?
+A: Freud
+B: Newton
+C: Planck
+D: Hertz
+ANSWER: D
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Oxygen?
+A: He
+B: Cl
+C: Mg
+D: O
+ANSWER: D
+
+LEVEL: hard
+QUESTION: Who developed the theory of radioactivity?
+A: Mendeleev
+B: Curie
+C: Einstein
+D: Maxwell
+ANSWER: B
+
+LEVEL: hard
+QUESTION: Which country does the city of Tehran belong to?
+A: Ethiopia
+B: Venezuela
+C: Iran
+D: Peru
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Who developed the theory of psychoanalysis?
+A: Maxwell
+B: Einstein
+C: Freud
+D: Heisenberg
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Which country does the city of Hanoi belong to?
+A: Vietnam
+B: Ethiopia
+C: Venezuela
+D: Uganda
+ANSWER: A
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Tin?
+A: Mg
+B: Ca
+C: Sn
+D: Na
+ANSWER: C
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Nickel?
+A: Ag
+B: Al
+C: Ni
+D: Br
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Which country does the city of Istanbul belong to?
+A: Iraq
+B: Turkey
+C: Vietnam
+D: Chile
+ANSWER: B
+
+LEVEL: hard
+QUESTION: Who developed the theory of vaccination?
+A: Hertz
+B: Mendeleev
+C: Heisenberg
+D: Jenner
+ANSWER: D
+
+LEVEL: hard
+QUESTION: Who developed the theory of electromagnetism?
+A: Maxwell
+B: Einstein
+C: Newton
+D: Darwin
+ANSWER: A
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Chlorine?
+A: Ni
+B: K
+C: Cl
+D: P
+ANSWER: C
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Bromine?
+A: Ag
+B: Sn
+C: O
+D: Br
+ANSWER: D
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Calcium?
+A: K
+B: Zn
+C: Br
+D: Ca
+ANSWER: D
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Nitrogen?
+A: N
+B: Cl
+C: Br
+D: Mg
+ANSWER: A
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Sulfur?
+A: K
+B: Mg
+C: S
+D: Br
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Which country does the city of Baghdad belong to?
+A: Norway
+B: Peru
+C: Venezuela
+D: Iraq
+ANSWER: D
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Silver?
+A: Ag
+B: Ar
+C: N
+D: Br
+ANSWER: A
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Aluminum?
+A: P
+B: N
+C: Al
+D: C
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Which country does the city of Kampala belong to?
+A: Uganda
+B: Iran
+C: Ethiopia
+D: Peru
+ANSWER: A
+
+LEVEL: hard
+QUESTION: Which country does the city of Caracas belong to?
+A: Venezuela
+B: Norway
+C: Iraq
+D: Thailand
+ANSWER: A
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Carbon?
+A: K
+B: Fe
+C: C
+D: N
+ANSWER: C
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Mercury?
+A: K
+B: Cl
+C: Hg
+D: Na
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Who developed the theory of uncertainty principle?
+A: Curie
+B: Einstein
+C: Heisenberg
+D: Freud
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Which country does the city of Cairo belong to?
+A: Uganda
+B: Ethiopia
+C: Egypt
+D: Indonesia
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Which country does the city of Kigali belong to?
+A: Rwanda
+B: Vietnam
+C: Mali
+D: Peru
+ANSWER: A
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Iron?
+A: Ca
+B: Pb
+C: Zn
+D: Fe
+ANSWER: D
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Argon?
+A: O
+B: Pb
+C: Ar
+D: Sn
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Which country does the city of Lima belong to?
+A: Algeria
+B: Egypt
+C: Peru
+D: Venezuela
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Who developed the theory of quantum mechanics?
+A: Mendeleev
+B: Planck
+C: Copernicus
+D: Freud
+ANSWER: B
+
+LEVEL: hard
+QUESTION: Who developed the theory of space-time?
+A: Einstein
+B: Freud
+C: Heisenberg
+D: Maxwell
+ANSWER: A
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Lead?
+A: Ca
+B: Pb
+C: Au
+D: Sn
+ANSWER: B
+
+LEVEL: hard
+QUESTION: Which country does the city of Santiago belong to?
+A: Philippines
+B: Venezuela
+C: Indonesia
+D: Chile
+ANSWER: D
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Potassium?
+A: C
+B: He
+C: K
+D: P
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Which country does the city of Oslo belong to?
+A: Iran
+B: Iraq
+C: Uganda
+D: Norway
+ANSWER: D
+
+LEVEL: hard
+QUESTION: Which country does the city of Addis Ababa belong to?
+A: Algeria
+B: Chile
+C: Ukraine
+D: Ethiopia
+ANSWER: D
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Helium?
+A: Hg
+B: He
+C: Cl
+D: Zn
+ANSWER: B
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Zinc?
+A: C
+B: Br
+C: N
+D: Zn
+ANSWER: D
+
+LEVEL: hard
+QUESTION: Who developed the theory of relativity?
+A: Newton
+B: Curie
+C: Jenner
+D: Einstein
+ANSWER: D
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Phosphorus?
+A: Ni
+B: C
+C: P
+D: Mg
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Which country does the city of Riyadh belong to?
+A: Uganda
+B: Ethiopia
+C: Saudi Arabia
+D: Venezuela
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Who developed the theory of periodic table?
+A: Mendeleev
+B: Hertz
+C: Freud
+D: Darwin
+ANSWER: A
+
+LEVEL: hard
+QUESTION: Which country does the city of Quito belong to?
+A: Ethiopia
+B: Ukraine
+C: Thailand
+D: Ecuador
+ANSWER: D
+
+LEVEL: hard
+QUESTION: Which country does the city of Jakarta belong to?
+A: Iran
+B: Iraq
+C: Indonesia
+D: Venezuela
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Who developed the theory of natural selection?
+A: Darwin
+B: Einstein
+C: Newton
+D: Freud
+ANSWER: A
+
+LEVEL: hard
+QUESTION: Which country does the city of Timbuktu belong to?
+A: Mali
+B: Algeria
+C: Ecuador
+D: Ukraine
+ANSWER: A
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Sodium?
+A: N
+B: He
+C: Na
+D: Ag
+ANSWER: C
+
+LEVEL: hard
+QUESTION: Who developed the theory of evolution?
+A: Hertz
+B: Darwin
+C: Curie
+D: Planck
+ANSWER: B
+
+LEVEL: hard
+QUESTION: What is the chemical symbol for Gold?
+A: Al
+B: Au
+C: Ag
+D: Sn
+ANSWER: B
+
